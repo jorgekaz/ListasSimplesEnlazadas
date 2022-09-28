@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1664122389 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	".\pilas.h"
+
+1663716857 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\untitled1.c
+
+1663971630 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\pilas.h"
+
+1663791834 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\pilas.h
+
+1663869776 source:g:\otros ordenadores\mi pc\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	".\pilas.h"
+
+1663791834 g:\otros ordenadores\mi pc\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\pilas.h
+
+1663791387 source:g:\otros ordenadores\mi pc\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4 2.0\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\pilas.h"
+
+1663971630 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.1 listas simplemente enlazadas\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\pilas.h"
+
+1663791834 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tp 4.1 listas simplemente enlazadas\pilas.h
+
